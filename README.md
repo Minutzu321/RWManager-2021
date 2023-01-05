@@ -7,4 +7,4 @@ Site-ul era platforma pe care se baza treasurehunt-ul digital al echipei noastre
 
 Are incorporat si un bot pentru discord care avea grija de serverul echipei.
 
-Tehnologii folosite: React, MySQL, Django
+Tehnologii folosite: React, MySQL, Django, Nginx
