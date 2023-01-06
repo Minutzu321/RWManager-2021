@@ -3,7 +3,7 @@
 Backend-ul ruleaza pe django si servit prin asgi, iar frontend-ul se bazeaza pe React.
 Un server nginx serveste fisierele dar si redirectioneaza WebSocket-urile.
 
-Site-ul era platforma pe care se baza al doilea treasurehunt digital al echipei noastre de robotica, eveniment care a strans peste 200 de persoane care erau conectate la aplicatia web
+Site-ul era platforma pe care se baza al doilea treasurehunt digital al echipei noastre de robotica, eveniment care a strans peste 200 de persoane care erau conectate la aplicatia web. Aceasta era o versiune mai complexa decat prima editie, traseul fiind transmis de catre server prin websocket-uri.
 
 Are incorporat si un bot pentru discord care avea grija de serverul echipei.
 
